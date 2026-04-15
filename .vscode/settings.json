@@ -1,0 +1,12 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLite Analytics",
+            "group": "SQLite Lab",
+            "database": "bais_sqlite_lab.db"
+        }
+    ]
+}
